@@ -4,6 +4,8 @@
 
 A desktop gadget for quick word search
 
+基于[百度翻译开发平台](https://api.fanyi.baidu.com/)API设计
+
 ### 简介
 
 一直找不到合适的桌面轻量翻译翻译工具，索性自己DIY一个
