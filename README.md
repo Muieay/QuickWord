@@ -1,6 +1,8 @@
 # QuickWord
 
-一款实时翻译的桌面小工具
+一款快速查词的桌面小工具
+
+A desktop gadget for quick word search
 
 ### 简介
 
@@ -26,7 +28,7 @@
 
 ### 安装
 
-直接安装或解压使用：[安装包](https://#) | [解压包](https://#)
+直接安装或解压使用：[安装包](https://github.com/Muieay/QuickWord/releases/download/QuickWord/QuickWord.exe) | [解压包](https://github.com/Muieay/QuickWord/releases/download/QuickWord/QuickWord.zip)
 
 #### 源码安装
 - 安装pyinstaller
@@ -62,5 +64,7 @@
 `ctrl+c ` 复制要翻译的内容
 
 `ctrl+b ` 快速翻译
+
+`shift+esc ` 退出快速翻译
 
 ![](docs/20230123142518.png)
